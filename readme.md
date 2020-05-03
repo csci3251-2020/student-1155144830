@@ -22,4 +22,4 @@ CSCI3251 | Practicum
 CSCI2100 | Data Structure
 ENGG1120 | Linear Algebra
 
- 
+![Milestone2](https://github.com/csci3251-2020/student-1155144830/blob/master/Milestone2.png)
