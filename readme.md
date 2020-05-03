@@ -1,4 +1,4 @@
-#Self Introduction
+## Self Introduction
 Hi, My name is __John Yuen__ and I am a engineering year one student.
 ## Developer Experience
 - [x] Game Development
